@@ -45,6 +45,10 @@ body {
     height: 35px;
 }
 
+.text-box{
+    
+}
+
 .heading-primary{
     color: #fff;
     text-transform: uppercase;
@@ -60,6 +64,6 @@ body {
 .heading-primary-sub{
     display: block;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 17.4px;
 }
